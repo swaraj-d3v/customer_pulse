@@ -1,0 +1,15 @@
+.git
+.gitignore
+.venv
+.venv-1
+.venv-2
+.venv310
+frontend
+data
+scripts
+pipeline
+sql
+deploy
+customerpulse.db
+*.log
+README.md.txt
